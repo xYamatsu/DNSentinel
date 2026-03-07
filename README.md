@@ -55,8 +55,8 @@ If running from source:
 Run the script as **Administrator**:
 
 ```bash
-python dnsentinel.py
-
+python dnsentinel.py 
+```
 
 
 DNSentinel will automatically configure secure DNS settings and verify the configuration.
