@@ -71,7 +71,7 @@ requires Administrator privileges.
 
 Releases:
 
-https://github.com/YOUR_USERNAME/DNSentinel/releases
+https://github.com/xYamatsu/DNSentinel/releases
 Warning
 
 DNSentinel modifies Windows network configuration.
