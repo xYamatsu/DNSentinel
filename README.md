@@ -56,3 +56,52 @@ Run the script as **Administrator**:
 
 ```bash
 python dnsentinel.py
+
+
+
+DNSentinel will automatically configure secure DNS settings and verify the configuration.
+
+Precompiled Executable
+
+If you do not want to install Python, you can download the compiled .exe
+version from the Releases section.
+
+The executable performs the same actions as the Python script and only
+requires Administrator privileges.
+
+Releases:
+
+https://github.com/YOUR_USERNAME/DNSentinel/releases
+Warning
+
+DNSentinel modifies Windows network configuration.
+
+Use this tool only if you understand the changes being applied.
+
+Administrator privileges are required.
+
+Project Structure
+DNSentinel/
+├ dnsentinel.py
+├ README.md
+├ LICENSE
+└ .gitignore
+License
+
+DNSentinel is provided for personal and educational use only.
+
+Commercial use, resale, sublicensing, or redistribution as part of a paid
+product is prohibited without written permission from the author.
+
+Contributing
+
+Pull requests and suggestions are welcome.
+
+If you discover a bug or have an improvement idea, please open an issue.
+
+Disclaimer
+
+This software is provided as-is without warranty.
+
+The author is not responsible for any damage or issues caused by the use
+of this software.
