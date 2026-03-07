@@ -123,7 +123,7 @@ If you discover a bug or have an improvement idea, please open an issue.
 
 If DNSentinel helped improve your privacy, you can support development:
 
-☕ https://buymeacoffee.com/YOURNAME
+☕ https://buymeacoffee.com/milord
 
 ------------------------------------------------------------------------
 
